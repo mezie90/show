@@ -3,7 +3,7 @@
     <component :is="hompage" ></component>
   </div>
 
-    <ProductList />  
+    <component  :is="ProductList"  ></component>
     <div>
       <component :is="Testimonial"></component>
     </div>
