@@ -17,6 +17,7 @@ const router = createRouter({
             component: Cart
         },
     ]
+    
 });
 
 export default router
